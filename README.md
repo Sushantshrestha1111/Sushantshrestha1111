@@ -3,7 +3,7 @@
   Hey there, I'm Sushant Shrestha
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h1>Здравствуйте, я тоже говорю по-русски</h1>
+  <h1> Я также немного говорю по-русски</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/104b0b4fc15842ae787815aace169b45e886df84676aae6430ab731ca0cbbb73/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033372f3635302f3836352f6f726967696e616c2f6161726f6e2d6a2d636861726c69652d6261636b67726f756e642d6769662e6769663f31363230393333303735">
 
