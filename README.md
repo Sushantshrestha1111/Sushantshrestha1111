@@ -15,12 +15,18 @@
 - 📫 How to reach me **shresthasushant11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<h4>Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat! You can email me or connect with me on LinkedIn . Also, if you're into gaming, let's team up for some fun too!
+</h4>
+
 <p align="left">
-<a href="https://dev.to/https://app.daily.dev/sushantshreshta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/sushantshreshta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sushant-shrestha-8aa254237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sushant-shrestha-8aa254237/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sushant.shrestha.7946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sushant.shrestha.7946" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3d-jwpa1d-vfwxlxja0jgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3d-jwpa1d-vfwxlxja0jgw" height="30" width="40" /></a>
+  <a href="https://dev.to/https://app.daily.dev/sushantshreshta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sushant-shrestha-8aa254237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/https://www.facebook.com/sushant.shrestha.7946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3d-jwpa1d-vfwxlxja0jgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
